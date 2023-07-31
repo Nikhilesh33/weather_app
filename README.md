@@ -3,7 +3,7 @@ Project Title
 Weather API Application
 
 Project Description
-This Python program interacts with the OpenWeatherMap API to fetch hourly weather forecasts for London.\
+This Python program interacts with the OpenWeatherMap API to fetch hourly weather forecasts for London.
 
 Usage
 Run the program:
